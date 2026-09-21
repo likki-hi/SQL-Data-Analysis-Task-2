@@ -119,7 +119,7 @@ Maincrafts_SQL_Data_Analysis_Task_2/
 ├── SQL_Data_Analysis_Task_2.sql
 └── README.md
 
-#How to Run
+##How to Run
 Install PostgreSQL and pgAdmin.
 Open pgAdmin Query Tool.
 Create or select a database.
@@ -127,7 +127,7 @@ Open SQL_Data_Analysis_Task_2.sql.
 Execute the SQL statements.
 Run the analysis queries to view the results.
 
-Internship Organization: Maincrafts Technologies
+###Internship Organization: Maincrafts Technologies
 Domain: Data Analytics
 Task: SQL Data Analysis – Task 2
 
