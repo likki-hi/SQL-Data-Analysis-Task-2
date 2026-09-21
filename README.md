@@ -126,9 +126,8 @@ Create or select a database.
 Open SQL_Data_Analysis_Task_2.sql.
 Execute the SQL statements.
 Run the analysis queries to view the results.
-Internship
 
-Organization: Maincrafts Technologies
+Internship Organization: Maincrafts Technologies
 Domain: Data Analytics
 Task: SQL Data Analysis – Task 2
 
